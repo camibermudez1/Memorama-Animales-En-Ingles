@@ -1,6 +1,6 @@
-# memoramaanimalesingles
+Memorama Animales En Ingles
 Actividad 1: Memorama Objetivo: Asociar imagen con palabra escrita en inglés
-<!DOCTYPE html>
+<html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
